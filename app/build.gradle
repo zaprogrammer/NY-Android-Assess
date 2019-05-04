@@ -1,0 +1,112 @@
+plugins {
+    id "org.sonarqube" version "2.5"
+//    id "net.ltgt.apt" version "0.21"
+}
+
+apply plugin: 'com.android.application'
+//apply plugin: 'com.neenbedankt.android-apt'
+
+//Include FindBugs tool
+apply from: "$project.rootDir/tools/script-findbugs.gradle"
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '28.0.3'
+
+    defaultConfig {
+        applicationId "com.elshaabany.nyTimes"
+        minSdkVersion 16
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner = 'android.support.test.runner.AndroidJUnitRunner'
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+            buildConfigField("String", "BASE_URL", "\"http://api.nytimes.com/\"")
+            buildConfigField("String", "API_KEY", "\"wzXI9F5g6tpL9FSXqE9xlyde0Lk006eo\"")
+        }
+        debug {
+            buildConfigField("String", "BASE_URL", "\"http://api.nytimes.com/\"")
+            buildConfigField("String", "API_KEY", "\"wzXI9F5g6tpL9FSXqE9xlyde0Lk006eo\"")
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+
+    final SUPPORT_LIBRARY_VERSION = '27.1.1'
+    final AUTO_VALUE_VERSION = '1.3'
+    final AUTO_VALUE_GSON_VERSION = '0.4.5'
+
+    api fileTree(dir: 'libs', include: ['*.jar'])
+//    testCompile 'junit:junit:4.12'
+    implementation "com.android.support:appcompat-v7:$SUPPORT_LIBRARY_VERSION"
+    implementation "com.android.support:design:$SUPPORT_LIBRARY_VERSION"
+
+    implementation "com.android.support:cardview-v7:$SUPPORT_LIBRARY_VERSION"
+    implementation "com.android.support:recyclerview-v7:$SUPPORT_LIBRARY_VERSION"
+
+    //Retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.1.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.1.0'
+    implementation 'com.squareup.retrofit2:adapter-rxjava:2.1.0'
+
+    //RxJava
+    implementation 'io.reactivex:rxjava:1.0.10'
+    implementation 'io.reactivex:rxandroid:1.2.1'
+
+    //ButterKnife
+    implementation 'com.jakewharton:butterknife:8.5.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
+
+    //Picasso
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+
+    //Dagger
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.5'
+    implementation 'com.google.dagger:dagger:2.5'
+    compileOnly 'javax.annotation:jsr250-api:1.0'
+
+    //Gson
+    implementation 'com.google.code.gson:gson:2.8.5'
+    implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
+
+    //circleimageview
+    implementation 'de.hdodenhof:circleimageview:2.1.0'
+
+    //OkHttp
+    implementation 'com.squareup.okhttp3:okhttp:3.2.0'
+    implementation 'com.squareup.okio:okio:1.7.0'
+
+    ///AutoValue
+    compileOnly "com.jakewharton.auto.value:auto-value-annotations:$AUTO_VALUE_VERSION"
+    compileOnly "com.ryanharter.auto.value:auto-value-gson:$AUTO_VALUE_GSON_VERSION"
+    annotationProcessor "com.google.auto.value:auto-value:$AUTO_VALUE_VERSION"
+    annotationProcessor 'com.ryanharter.auto.value:auto-value-parcel:0.2.4-rc2'
+    annotationProcessor "com.ryanharter.auto.value:auto-value-gson:$AUTO_VALUE_GSON_VERSION"
+    annotationProcessor 'com.squareup:javapoet:1.7.0'
+
+
+    // Instrumentation test dependencies
+    androidTestImplementation 'com.squareup.retrofit2:retrofit-mock:2.1.0'
+    androidTestImplementation('com.squareup.okhttp:mockwebserver:2.7.0')
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test:rules:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-contrib:3.0.2'
+    androidTestImplementation 'com.squareup.spoon:spoon-client:1.2.0'
+
+}
+
+// Log out test results to console
+tasks.matching { it instanceof Test }.all {
+    testLogging.events = ["failed", "passed", "skipped"]
+}

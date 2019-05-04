@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NY Times</string>
+    <string name="action_share">Share</string>
+    <string name="error_load_post_text">Loading error! Try again?</string>
+    <string name="snackbar_action_retry">RETRY</string>
+    <string name="locationLine" formatted="false">%s %s</string>
+    <string name="send_to">Share detail to..</string>
+    <string name="sharedElement">articleImage</string>
+    <string name="no_internet_title">No Internet connection.</string>
+    <string name="no_internet_content">You have no internet connection</string>
+    <string name="about">About</string>
+    <string name="ok">Ok</string>
+    <string name="last1">Last day</string>
+    <string name="last7">Last 7 days</string>
+    <string name="last30">Last 30 days</string>
+</resources>

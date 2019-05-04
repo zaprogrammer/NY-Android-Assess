@@ -1,0 +1,1245 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1893,
+  "results": [
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/04\/health\/aids-cure-london-patient.html",
+      "adx_keywords": "Acquired Immune Deficiency Syndrome;Immunotherapy;Genetic Engineering;Transplants;Bone Marrow;Stem Cells;Brown, Timothy Ray;American Foundation for AIDS Research;Nature (Journal);University College London;your-feed-science",
+      "column": null,
+      "section": "Health",
+      "byline": "By APOORVA MANDAVILLI",
+      "type": "Article",
+      "title": "H.I.V. Is Reported Cured in a Second Patient, a Milestone in the Global AIDS Epidemic",
+      "abstract": "Scientists have long tried to duplicate the procedure that led to the first long-term remission 12 years ago. With the so-called London patient, they seem to have succeeded.",
+      "published_date": "2019-03-04",
+      "source": "The New York Times",
+      "id": 100000006369659,
+      "asset_id": 100000006369659,
+      "views": 1,
+      "des_facet": [
+        "ACQUIRED IMMUNE DEFICIENCY SYNDROME",
+        "IMMUNOTHERAPY",
+        "TRANSPLANTS",
+        "BONE MARROW",
+        "YOUR-FEED-SCIENCE"
+      ],
+      "org_facet": [
+        "GENETIC ENGINEERING",
+        "STEM CELLS",
+        "AMERICAN FOUNDATION FOR AIDS RESEARCH",
+        "NATURE (JOURNAL)",
+        "UNIVERSITY COLLEGE LONDON"
+      ],
+      "per_facet": [
+        "BROWN, TIMOTHY RAY"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A colored transmission electron micrograph of the H.I.V. virus, in green, attaching to a white blood cell, in orange.",
+          "copyright": "NIBSC\/Science Source",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/06\/science\/05HIV1\/05HIV1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/06\/science\/05HIV1\/05HIV1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/06\/science\/05HIV1\/05HIV1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/22d66a15-c0f2-5d38-9b0e-335e84467e43"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/28\/health\/woman-pain-anxiety.html",
+      "adx_keywords": "Pain;Anxiety and Stress;Cameron, Jo;Srivastava, Devjit;British Journal of Anaesthesia;Genetics and Heredity;Opioids and Opiates;Pain-Relieving Drugs;University College London;Scotland",
+      "column": null,
+      "section": "Health",
+      "byline": "By HEATHER MURPHY",
+      "type": "Article",
+      "title": "At 71, She\u2019s Never Felt Pain or Anxiety. Now Scientists Know Why.",
+      "abstract": "Scientists discovered a previously unidentified genetic mutation in a Scottish woman. They hope it could lead to the development of new pain treatment.",
+      "published_date": "2019-03-28",
+      "source": "The New York Times",
+      "id": 100000006432324,
+      "asset_id": 100000006432324,
+      "views": 2,
+      "des_facet": [
+        "ANXIETY AND STRESS",
+        "GENETICS AND HEREDITY",
+        "OPIOIDS AND OPIATES",
+        "PAIN-RELIEVING DRUGS"
+      ],
+      "org_facet": [
+        "PAIN",
+        "BRITISH JOURNAL OF ANAESTHESIA",
+        "UNIVERSITY COLLEGE LONDON"
+      ],
+      "per_facet": [
+        "CAMERON, JO",
+        "SRIVASTAVA, DEVJIT"
+      ],
+      "geo_facet": [
+        "SCOTLAND"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jo Cameron, 71, has a rare gene mutation that scientists believe inhibits her from feeling pain or anxiety.",
+          "copyright": "Mary Turner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/science\/27xp-nopain\/27xp-nopain-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/science\/27xp-nopain\/27xp-nopain-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/27\/science\/27xp-nopain\/27xp-nopain-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/02e0395b-1496-540a-8e5f-6687a52a6fca"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/12\/us\/college-admissions-cheating-scandal.html",
+      "adx_keywords": "College Admissions Scandal (2019);Colleges and Universities;Admissions Standards;Cheating;Bribery and Kickbacks;Frauds and Swindling;Singer, William Rick;Edge College and Career Network;Huffman, Felicity;Loughlin, Lori;McGlashan, William E Jr;Yale University;Wake Forest University;Stanford University;University of Southern California",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By JENNIFER MEDINA, KATIE BENNER and KATE TAYLOR",
+      "type": "Article",
+      "title": "Actresses, Business Leaders and Other Wealthy Parents Charged in U.S. College Entry Fraud",
+      "abstract": "A sprawling federal investigation accuses 50 people of involvement in a scheme to get undeserving students into major American universities.",
+      "published_date": "2019-03-12",
+      "source": "The New York Times",
+      "id": 100000006406075,
+      "asset_id": 100000006406075,
+      "views": 3,
+      "des_facet": [
+        "COLLEGES AND UNIVERSITIES",
+        "ADMISSIONS STANDARDS",
+        "CHEATING"
+      ],
+      "org_facet": [
+        "COLLEGE ADMISSIONS SCANDAL (2019)",
+        "BRIBERY AND KICKBACKS",
+        "FRAUDS AND SWINDLING",
+        "EDGE COLLEGE AND CAREER NETWORK",
+        "YALE UNIVERSITY",
+        "WAKE FOREST UNIVERSITY",
+        "STANFORD UNIVERSITY",
+        "UNIVERSITY OF SOUTHERN CALIFORNIA"
+      ],
+      "per_facet": [
+        "SINGER, WILLIAM RICK",
+        "HUFFMAN, FELICITY",
+        "LOUGHLIN, LORI",
+        "MCGLASHAN, WILLIAM E JR"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Steven Senne\/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/12\/us\/12college-raid-sub\/12college-raid-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/12\/us\/12college-raid-sub\/12college-raid-sub-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/12\/us\/12college-raid-sub\/12college-raid-sub-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/bac76e87-b5fc-54fa-8c0f-46a0688effba"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/12\/us\/felicity-huffman-lori-loughlin-massimo-giannulli.html",
+      "adx_keywords": "College Admissions Scandal (2019);Admissions Standards;Colleges and Universities;Bribery and Kickbacks;Cheating;Frauds and Swindling;Huffman, Felicity;Loughlin, Lori;Giannulli, Mossimo",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By REBECCA HALLECK",
+      "type": "Article",
+      "title": "Who\u2019s Been Charged in the College Admissions Cheating Scandal? Here\u2019s the Full List",
+      "abstract": "The actresses Felicity Huffman and Lori Loughlin and the fashion designer Mossimo Giannulli are among the 50 people charged in a bribery scheme to secure places for students in elite colleges.",
+      "published_date": "2019-03-12",
+      "source": "The New York Times",
+      "id": 100000006406229,
+      "asset_id": 100000006406229,
+      "views": 4,
+      "des_facet": [
+        "ADMISSIONS STANDARDS",
+        "COLLEGES AND UNIVERSITIES",
+        "BRIBERY AND KICKBACKS",
+        "FRAUDS AND SWINDLING"
+      ],
+      "org_facet": [
+        "COLLEGE ADMISSIONS SCANDAL (2019)",
+        "CHEATING"
+      ],
+      "per_facet": [
+        "HUFFMAN, FELICITY",
+        "LOUGHLIN, LORI",
+        "GIANNULLI, MOSSIMO"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Lori Loughlin, Mossimo Giannulli and Felicity Huffman.",
+          "copyright": "From left: AFP -- Getty Images; Reuters and AP",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/12\/us\/12college-whois-hp\/12college-whois-alt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/12\/us\/12college-whois-hp\/12college-whois-alt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/12\/us\/12college-whois-hp\/12college-whois-alt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/50b479fd-7f67-54d5-91ec-b60178e83d83"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/16\/style\/snowplow-parenting-scandal.html",
+      "adx_keywords": "Admissions Standards;Colleges and Universities;College Admissions Scandal (2019);Parenting;Tests and Examinations;SAT (College Admission Test);Education (K-12)",
+      "column": null,
+      "section": "Style",
+      "byline": "By CLAIRE CAIN MILLER and JONAH ENGEL BROMWICH",
+      "type": "Article",
+      "title": "How Parents Are Robbing Their Children of Adulthood",
+      "abstract": "Today\u2019s \u201csnowplow parents\u201d keep their children\u2019s futures obstacle-free \u2014 even when it means crossing ethical and legal boundaries.",
+      "published_date": "2019-03-16",
+      "source": "The New York Times",
+      "id": 100000006411881,
+      "asset_id": 100000006411881,
+      "views": 5,
+      "des_facet": [
+        "ADMISSIONS STANDARDS",
+        "COLLEGES AND UNIVERSITIES",
+        "PARENTING",
+        "TESTS AND EXAMINATIONS"
+      ],
+      "org_facet": [
+        "COLLEGE ADMISSIONS SCANDAL (2019)",
+        "SAT (COLLEGE ADMISSION TEST)",
+        "EDUCATION (K-12)"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/17\/style\/17snowplow-1\/17snowplow-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/17\/style\/17snowplow-1\/17snowplow-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/17\/style\/17snowplow-1\/17snowplow-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/08baa5d4-b67b-5e29-8212-7c64d8978670"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/arts\/television\/best-movies-on-netflix.html",
+      "adx_keywords": "Netflix Inc;Movies;Video Recordings, Downloads and Streaming",
+      "column": "",
+      "section": "Arts",
+      "byline": "By JASON BAILEY",
+      "type": "Interactive",
+      "title": "The 50 Best Movies on Netflix Right Now",
+      "abstract": "We\u2019ve plucked out the 50 best films currently streaming on Netflix in the United States. Take a look.",
+      "published_date": "2019-03-06",
+      "source": "The New York Times",
+      "id": 100000006330108,
+      "asset_id": 100000006330108,
+      "views": 6,
+      "des_facet": [
+        "MOVIES",
+        "VIDEO RECORDINGS, DOWNLOADS AND STREAMING"
+      ],
+      "org_facet": [
+        "NETFLIX INC"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uma Thurman in \u201cPulp Fiction.\u201d",
+          "copyright": "Linda R. Chen\/Miramax Films",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2016\/06\/19\/watching\/pulp-fiction-watching-recommendation\/pulp-fiction-watching-recommendation-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2016\/06\/19\/watching\/pulp-fiction-watching-recommendation\/pulp-fiction-watching-recommendation-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2016\/06\/19\/watching\/pulp-fiction-watching-recommendation\/pulp-fiction-watching-recommendation-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/3769fe44-d294-5a71-8281-5220a39673bf"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/14\/world\/boeing-737-max-ethiopian-airlines.html",
+      "adx_keywords": "Boeing 737 Max Groundings and Safety Concerns (2019);Aviation Accidents, Safety and Disasters;Getachew, Yared;Boeing Company;Federal Aviation Administration;Ethiopian Airlines",
+      "column": null,
+      "section": "World",
+      "byline": "By SELAM GEBREKIDAN and JAMES GLANZ",
+      "type": "Article",
+      "title": "Boeing 737 Max Hit Trouble Right Away, Pilot\u2019s Tense Radio Messages Show",
+      "abstract": "\u201cBreak break, request back to home,\u201d the captain of the ill-fated Ethiopian Airlines flight radioed air traffic controllers minutes after taking off.",
+      "published_date": "2019-03-14",
+      "source": "The New York Times",
+      "id": 100000006410242,
+      "asset_id": 100000006410242,
+      "views": 7,
+      "des_facet": [
+        "BOEING 737 MAX GROUNDINGS AND SAFETY CONCERNS (2019)",
+        "AVIATION ACCIDENTS, SAFETY AND DISASTERS"
+      ],
+      "org_facet": [
+        "BOEING COMPANY",
+        "FEDERAL AVIATION ADMINISTRATION",
+        "ETHIOPIAN AIRLINES"
+      ],
+      "per_facet": [
+        "GETACHEW, YARED"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial arch on Thursday at the site of the jet crash in Ethiopia.",
+          "copyright": "Jemal Countess\/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/14\/business\/14boeing3\/14boeing3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/14\/business\/14boeing3\/14boeing3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/14\/business\/14boeing3\/14boeing3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/63411a1f-beed-55ff-99b5-7c382acf1d83"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/21\/business\/boeing-safety-features-charge.html",
+      "adx_keywords": "Boeing 737 Max Groundings and Safety Concerns (2019);Aviation Accidents, Safety and Disasters;Airlines and Airplanes;Boeing Company;Ethiopian Airlines;Lion Air;Regulation and Deregulation of Industry",
+      "column": null,
+      "section": "Business",
+      "byline": "By HIROKO TABUCHI and DAVID GELLES",
+      "type": "Article",
+      "title": "Doomed Boeing Jets Lacked 2 Safety Features That Company Sold Only as Extras",
+      "abstract": "Airlines had to pay more for two optional upgrades that could warn pilots about sensor malfunctions. Boeing now plans to make one of the features standard.",
+      "published_date": "2019-03-21",
+      "source": "The New York Times",
+      "id": 100000006421007,
+      "asset_id": 100000006421007,
+      "views": 8,
+      "des_facet": [
+        "BOEING 737 MAX GROUNDINGS AND SAFETY CONCERNS (2019)",
+        "AVIATION ACCIDENTS, SAFETY AND DISASTERS",
+        "AIRLINES AND AIRPLANES"
+      ],
+      "org_facet": [
+        "BOEING COMPANY",
+        "ETHIOPIAN AIRLINES",
+        "LION AIR",
+        "REGULATION AND DEREGULATION OF INDUSTRY"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Standard 737 Max planes are not equipped with a so-called angle of attack indicator or an angle of attack disagree light. The indicator will continue to cost airlines extra, but the light won\u2019t.",
+          "copyright": "Ruth Fremson\/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/23\/business\/23boeing1\/20boeing1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/23\/business\/23boeing1\/20boeing1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/23\/business\/23boeing1\/20boeing1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/b8a29461-75dc-56ee-8f4b-e076749b6a6d"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/15\/world\/asia\/new-zealand-shooting.html",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Christchurch, New Zealand, Attack (March 2019);Mosques;Terrorism;Muslims and Islam;New Zealand;Social Media;Christchurch (New Zealand)",
+      "column": null,
+      "section": "World",
+      "byline": "By THE NEW YORK TIMES",
+      "type": "Article",
+      "title": "Jacinda Ardern Consoles Families After New Zealand Shooting",
+      "abstract": "The attack on two mosques, which appeared to have been carried out by a white extremist, left 49 dead in the city of Christchurch.",
+      "published_date": "2019-03-15",
+      "source": "The New York Times",
+      "id": 100000006412038,
+      "asset_id": 100000006412038,
+      "views": 9,
+      "des_facet": [
+        "MURDERS, ATTEMPTED MURDERS AND HOMICIDES",
+        "CHRISTCHURCH, NEW ZEALAND, ATTACK (MARCH 2019)",
+        "MOSQUES"
+      ],
+      "org_facet": [
+        "TERRORISM",
+        "MUSLIMS AND ISLAM",
+        "SOCIAL MEDIA"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "NEW ZEALAND",
+        "CHRISTCHURCH (NEW ZEALAND)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A makeshift memorial in Christchurch, New Zealand, on Saturday.",
+          "copyright": "Matthew Abbott for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/16\/world\/16nz-shooting-2\/16nz-shooting-2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/16\/world\/16nz-shooting-2\/16nz-shooting-2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/16\/world\/16nz-shooting-2\/16nz-shooting-2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/54ac784c-9e89-5526-8fa3-4e7734eb5888"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/25\/smarter-living\/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html",
+      "adx_keywords": "Procrastination;Emotions;Psychology and Psychologists;Anxiety and Stress;Boredom",
+      "column": null,
+      "section": "Smarter Living",
+      "byline": "By CHARLOTTE LIEBERMAN",
+      "type": "Article",
+      "title": "Why You Procrastinate (It Has Nothing to Do With Self-Control)",
+      "abstract": "If procrastination isn\u2019t about laziness, then what is it about?",
+      "published_date": "2019-03-25",
+      "source": "The New York Times",
+      "id": 100000006416140,
+      "asset_id": 100000006416140,
+      "views": 10,
+      "des_facet": [
+        "PROCRASTINATION",
+        "PSYCHOLOGY AND PSYCHOLOGISTS",
+        "ANXIETY AND STRESS"
+      ],
+      "org_facet": [
+        "EMOTIONS",
+        "BOREDOM"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erik Winkowski",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/smarter-living\/25sl_procrastination_promo\/25sl_procrastination_promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/smarter-living\/25sl_procrastination_promo\/25sl_procrastination_promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/25\/smarter-living\/25sl_procrastination_promo\/25sl_procrastination_promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/166a9d7f-8edd-5ae8-88e5-30a6e80e646e"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/02\/28\/us\/politics\/jared-kushner-security-clearance.html",
+      "adx_keywords": "Trump, Donald J;Kushner, Jared;Trump, Ivanka;Kelly, John F (1950- );United States Politics and Government;Classified Information and State Secrets;Federal Bureau of Investigation;Central Intelligence Agency",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By MAGGIE HABERMAN, MICHAEL S. SCHMIDT, ADAM GOLDMAN and ANNIE KARNI",
+      "type": "Article",
+      "title": "Trump Ordered Officials to Give Jared Kushner a Security Clearance",
+      "abstract": "The president overruled concerns from intelligence officials and the top White House lawyer about giving his son-in-law access to sensitive information.",
+      "published_date": "2019-02-28",
+      "source": "The New York Times",
+      "id": 100000006385739,
+      "asset_id": 100000006385739,
+      "views": 11,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "CLASSIFIED INFORMATION AND STATE SECRETS"
+      ],
+      "org_facet": [
+        "FEDERAL BUREAU OF INVESTIGATION",
+        "CENTRAL INTELLIGENCE AGENCY"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "KUSHNER, JARED",
+        "TRUMP, IVANKA",
+        "KELLY, JOHN F (1950- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jared Kushner, President Trump\u2019s son-in-law and senior adviser, received a top-secret security clearance despite concerns from intelligence officials.",
+          "copyright": "Andrew Harnik\/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/01\/us\/01dc-clearance-sub-promo\/01dc-clearance-sub-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/01\/us\/01dc-clearance-sub-promo\/01dc-clearance-sub-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/01\/us\/01dc-clearance-sub-promo\/01dc-clearance-sub-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/c1737106-a9fa-5d1c-9100-603f314a7f20"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/24\/us\/politics\/mueller-report-summary.html",
+      "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;Mueller, Robert S III;Trump, Donald J;United States Politics and Government;Special Prosecutors (Independent Counsel);Justice Department;Russia;Barr, William P;Presidential Election of 2016",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By MARK MAZZETTI and KATIE BENNER",
+      "type": "Article",
+      "title": "Mueller Finds No Trump-Russia Conspiracy, but Stops Short of Exonerating President on Obstruction",
+      "abstract": "The attorney general released the main findings of the closely watched investigation into Russia\u2019s election interference and whether Trump associates conspired.",
+      "published_date": "2019-03-24",
+      "source": "The New York Times",
+      "id": 100000006425832,
+      "asset_id": 100000006425832,
+      "views": 12,
+      "des_facet": [
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "PRESIDENTIAL ELECTION OF 2016"
+      ],
+      "org_facet": [
+        "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)",
+        "JUSTICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "MUELLER, ROBERT S III",
+        "TRUMP, DONALD J",
+        "BARR, WILLIAM P"
+      ],
+      "geo_facet": [
+        "RUSSIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The special counsel, Robert S. Mueller III, and his wife, Ann Standish, near the White House after attending church on Sunday.",
+          "copyright": "Cliff Owen\/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/us\/politics\/26dc-cong-promo\/24dc-cong-promo-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/us\/politics\/26dc-cong-promo\/24dc-cong-promo-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/26\/us\/politics\/26dc-cong-promo\/24dc-cong-promo-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/0e82d026-fa9b-5802-9df6-b65dfc662b70"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/03\/11\/world\/boeing-737-max-which-airlines.html",
+      "adx_keywords": "Airlines and Airplanes;Boeing Company;Aviation Accidents, Safety and Disasters;Lion Air;Ethiopian Airlines;Addis Ababa (Ethiopia);Southwest Airlines Company;American Airlines;Air Canada;China Southern Airlines;Norwegian Air Shuttle ASA;Air China;SpiceJet;Turkish Airlines;Flydubai",
+      "column": "",
+      "section": "World",
+      "byline": "By DENISE LU, ALLISON McCANN, JIN WU and K.K. REBECCA LAI",
+      "type": "Interactive",
+      "title": "From 8,600 Flights to Zero: Grounding the Boeing 737 Max 8",
+      "abstract": "China was the first major country to ground the jets. The U.S. was last.",
+      "published_date": "2019-03-11",
+      "source": "The New York Times",
+      "id": 100000006404643,
+      "asset_id": 100000006404643,
+      "views": 13,
+      "des_facet": [
+        "AIRLINES AND AIRPLANES",
+        "AVIATION ACCIDENTS, SAFETY AND DISASTERS"
+      ],
+      "org_facet": [
+        "BOEING COMPANY",
+        "LION AIR",
+        "ETHIOPIAN AIRLINES",
+        "SOUTHWEST AIRLINES COMPANY",
+        "AMERICAN AIRLINES",
+        "AIR CANADA",
+        "CHINA SOUTHERN AIRLINES",
+        "NORWEGIAN AIR SHUTTLE ASA",
+        "AIR CHINA",
+        "SPICEJET",
+        "TURKISH AIRLINES",
+        "FLYDUBAI"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "ADDIS ABABA (ETHIOPIA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/11\/world\/where-boeing-737-max-flies-1552329118347\/where-boeing-737-max-flies-1552329118347-thumbStandard-v15.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/11\/world\/where-boeing-737-max-flies-1552329118347\/where-boeing-737-max-flies-1552329118347-mediumThreeByTwo210-v15.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/11\/world\/where-boeing-737-max-flies-1552329118347\/where-boeing-737-max-flies-1552329118347-mediumThreeByTwo440-v15.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/7fcc105c-d025-5f27-841e-e00292eeb4ab"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/18\/business\/trump-deutsche-bank.html",
+      "adx_keywords": "Trump, Donald J;Deutsche Bank AG;Banking and Financial Institutions;Real Estate (Commercial);United States Politics and Government;Presidential Election of 2016;Credit and Debt;Trump Organization;Jain, Anshu;Vrablic, Rosemary T;Kushner, Jared;Offit, Mike;Manhattan (NYC);Kennedy, Justin A;Trump International Hotel and Tower (Chicago, Ill)",
+      "column": null,
+      "section": "Business",
+      "byline": "By DAVID ENRICH",
+      "type": "Article",
+      "title": "A Mar-a-Lago Weekend and an Act of God: Trump\u2019s History With Deutsche Bank",
+      "abstract": "Deutsche Bank\u2019s hunger for profits and risk led it to lend Donald Trump more than $2 billion. Once he was elected president, employees were told not to utter his name.",
+      "published_date": "2019-03-18",
+      "source": "The New York Times",
+      "id": 100000006408304,
+      "asset_id": 100000006408304,
+      "views": 14,
+      "des_facet": [
+        "BANKING AND FINANCIAL INSTITUTIONS",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "PRESIDENTIAL ELECTION OF 2016"
+      ],
+      "org_facet": [
+        "DEUTSCHE BANK AG",
+        "REAL ESTATE (COMMERCIAL)",
+        "CREDIT AND DEBT",
+        "TRUMP ORGANIZATION",
+        "TRUMP INTERNATIONAL HOTEL AND TOWER (CHICAGO, ILL)"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "JAIN, ANSHU",
+        "VRABLIC, ROSEMARY T",
+        "KUSHNER, JARED",
+        "OFFIT, MIKE",
+        "KENNEDY, JUSTIN A"
+      ],
+      "geo_facet": [
+        "MANHATTAN (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Chicago skyscraper was the focus of a court battle between Mr. Trump and Deutsche Bank that equated the 2008 financial crisis with an act of God.",
+          "copyright": "Nathan Weber for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/19\/business\/19deutsche-4\/19deutsche-4-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/19\/business\/19deutsche-4\/merlin_105779095_a31267d5-ed98-4dac-83ee-a4944e284f21-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/19\/business\/19deutsche-4\/merlin_105779095_a31267d5-ed98-4dac-83ee-a4944e284f21-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/1154d6c4-5dc2-505d-8c61-1f14581b78ab"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/arts\/television\/best-drama-series.html",
+      "adx_keywords": "Television;The Sopranos (TV Program);The Americans (TV Program);Adventure Time (TV Program);The Leftovers (TV Program);Lost (TV Program);The West Wing (TV Program);Game of Thrones (TV Program);Deadwood (TV Program);Jane the Virgin (TV Program);Halt and Catch Fire (TV Program);Breaking Bad (TV Program);The Wire (TV Program);Justified (TV Program);The Good Wife (TV Program);Queen Sugar (TV Program);Grey's Anatomy (TV Program);Mad Men (TV Program);Friday Night Lights (TV Program);Gunn, Anna;Beetz, Zazie;Weiner, Matthew (1965- );Lindelof, Damon;Wright, Alison (1976- )",
+      "column": "",
+      "section": "Arts",
+      "byline": "By THE NEW YORK TIMES",
+      "type": "Interactive",
+      "title": "The 20 Best TV Dramas Since \u2018The Sopranos\u2019",
+      "abstract": "It\u2019s been 20 years since those ducks landed in Tony\u2019s pool. A flock of extraordinary shows followed. These are the best dramas since 1999.",
+      "published_date": "2019-01-10",
+      "source": "The New York Times",
+      "id": 100000006297737,
+      "asset_id": 100000006297737,
+      "views": 15,
+      "des_facet": [
+        "TELEVISION"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "GUNN, ANNA",
+        "BEETZ, ZAZIE",
+        "WEINER, MATTHEW (1965- )",
+        "LINDELOF, DAMON",
+        "WRIGHT, ALISON (1976- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Pedro Piccinini. \u201cBreaking Bad,\u201d AMC.",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/09\/arts\/television\/besttv-breakingbad\/besttv-breakingbad-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/09\/arts\/television\/besttv-breakingbad\/besttv-breakingbad-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/01\/09\/arts\/television\/besttv-breakingbad\/besttv-breakingbad-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/ecdf0eeb-8049-53a9-abf6-f430eb3f4104"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2019\/03\/07\/magazine\/top-songs.html",
+      "adx_keywords": "Pop and Rock Music;Rhythm and Blues (Music);Rap and Hip-Hop;Springsteen, Bruce;Grande, Ariana;Carey, Mariah;Meek Mill (Rapper);Lady Gaga;A Star Is Born (Movie);Scott, Travis (1992- );Baby Shark (Song);Knowles, Beyonce;Jay-Z;Juice WRLD (Rapper);Musgraves, Kacey;Post, Austin (Post Malone) (1995- );Whack, Tierra;Parquet Courts (Music Group);Grimes (1988- );Holter, Julia (1984- );Maroon 5 (Music Group);Robyn (1979- );6ix9ine (Rapper);Vila Tobella, Rosalia;1975, The (Music Group);Blake, James (1988- );Weezer (Music Group);Van Etten, Sharon;Sons of Kemet (Music Group);Davidson, Marie (1987- )",
+      "column": "",
+      "section": "Magazine",
+      "byline": "By THE NEW YORK TIMES MAGAZINE",
+      "type": "Interactive",
+      "title": "The Top 25 Songs That Matter Right Now",
+      "abstract": "Listen to music \u2014 from the blockbuster hits, critical darlings and conversation pieces of the moment \u2014 few of which take a direct route to the usual joys of pop.",
+      "published_date": "2019-03-07",
+      "source": "The New York Times",
+      "id": 100000006397390,
+      "asset_id": 100000006397390,
+      "views": 16,
+      "des_facet": [
+        "POP AND ROCK MUSIC",
+        "RHYTHM AND BLUES (MUSIC)"
+      ],
+      "org_facet": [
+        "RAP AND HIP-HOP",
+        "PARQUET COURTS (MUSIC GROUP)",
+        "MAROON 5 (MUSIC GROUP)",
+        "1975, THE (MUSIC GROUP)",
+        "WEEZER (MUSIC GROUP)",
+        "SONS OF KEMET (MUSIC GROUP)"
+      ],
+      "per_facet": [
+        "SPRINGSTEEN, BRUCE",
+        "GRANDE, ARIANA",
+        "CAREY, MARIAH",
+        "MEEK MILL (RAPPER)",
+        "LADY GAGA",
+        "SCOTT, TRAVIS (1992- )",
+        "KNOWLES, BEYONCE",
+        "JAY-Z",
+        "JUICE WRLD (RAPPER)",
+        "MUSGRAVES, KACEY",
+        "POST, AUSTIN (POST MALONE) (1995- )",
+        "WHACK, TIERRA",
+        "GRIMES (1988- )",
+        "HOLTER, JULIA (1984- )",
+        "ROBYN (1979- )",
+        "6IX9INE (RAPPER)",
+        "VILA TOBELLA, ROSALIA",
+        "BLAKE, JAMES (1988- )",
+        "VAN ETTEN, SHARON",
+        "DAVIDSON, MARIE (1987- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/10\/magazine\/10mag-cover-vertical\/10mag-cover-vertical-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/10\/magazine\/10mag-cover-vertical\/10mag-cover-vertical-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/10\/magazine\/10mag-cover-vertical\/10mag-cover-vertical-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/interactive\/ca81636d-4df7-5f04-9660-148c7ca65d35"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/03\/world\/asia\/india-military-united-states-china.html",
+      "adx_keywords": "India;Defense and Military Forces;United States;China;United States International Relations;Arms Trade;Military Aircraft",
+      "column": null,
+      "section": "World",
+      "byline": "By MARIA ABI-HABIB",
+      "type": "Article",
+      "title": "After India Loses Dogfight to Pakistan, Questions Arise About Its \u2018Vintage\u2019 Military",
+      "abstract": "As America strengthens its alliance with India to help counter China, critics say its military faces serious challenges, from the age of its hardware to the size of its budget.",
+      "published_date": "2019-03-03",
+      "source": "The New York Times",
+      "id": 100000006391507,
+      "asset_id": 100000006391507,
+      "views": 17,
+      "des_facet": [
+        "DEFENSE AND MILITARY FORCES",
+        "UNITED STATES INTERNATIONAL RELATIONS"
+      ],
+      "org_facet": [
+        "ARMS TRADE",
+        "MILITARY AIRCRAFT"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "INDIA",
+        "UNITED STATES",
+        "CHINA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Indian paramilitary troops in Srinagar in Kashmir this month. Sixty-eight percent of the army\u2019s equipment is so old that it is officially considered \u201cvintage.\u201d",
+          "copyright": "Tauseef Mustafa\/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/04\/world\/04india-military4-sub\/04india-military4-sub-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/04\/world\/04india-military4-sub\/04india-military4-sub-mediumThreeByTwo210-v5.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/04\/world\/04india-military4-sub\/04india-military4-sub-mediumThreeByTwo440-v5.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/d5eed005-36ad-5166-bbd9-81e4cb8d51c4"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/10\/world\/americas\/venezuela-aid-fire-video.html",
+      "adx_keywords": "Humanitarian Aid;Guaido, Juan;Maduro, Nicolas;Venezuela;Demonstrations, Protests and Riots;Politics and Government;United States Agency for International Development;Video Recordings, Downloads and Streaming;Rumors and Misinformation",
+      "column": null,
+      "section": "World",
+      "byline": "By NICHOLAS CASEY, CHRISTOPH KOETTL and DEBORAH ACOSTA",
+      "type": "Article",
+      "title": "Footage Contradicts U.S. Claim That Nicol\u00e1s Maduro Burned Aid Convoy",
+      "abstract": "A reconstruction of the moment when a truck bearing humanitarian supplies was set on fire shows the likely cause was a Molotov cocktail thrown by a protester.",
+      "published_date": "2019-03-10",
+      "source": "The New York Times",
+      "id": 100000006400090,
+      "asset_id": 100000006400090,
+      "views": 18,
+      "des_facet": [
+        "POLITICS AND GOVERNMENT",
+        "RUMORS AND MISINFORMATION"
+      ],
+      "org_facet": [
+        "HUMANITARIAN AID",
+        "DEMONSTRATIONS, PROTESTS AND RIOTS",
+        "UNITED STATES AGENCY FOR INTERNATIONAL DEVELOPMENT",
+        "VIDEO RECORDINGS, DOWNLOADS AND STREAMING"
+      ],
+      "per_facet": [
+        "GUAIDO, JUAN",
+        "MADURO, NICOLAS"
+      ],
+      "geo_facet": [
+        "VENEZUELA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Natasha V\u00e1squez\/Afp",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/11\/world\/americas\/11a2-truck\/AIDTRUCK-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/11\/world\/americas\/11a2-truck\/AIDTRUCK-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/11\/world\/americas\/11a2-truck\/AIDTRUCK-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/b8b9ab4e-90c7-57d1-b65f-8fe3b8328674"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/07\/opinion\/ilhan-omar-anti-semitism.html",
+      "adx_keywords": "Omar, Ilhan;Anti-Semitism;Israel;Jews and Judaism;Pelosi, Nancy;Democratic Party;House of Representatives;United States Politics and Government",
+      "column": null,
+      "section": "Opinion",
+      "byline": "By BRET STEPHENS",
+      "type": "Article",
+      "title": "Ilhan Omar Knows Exactly What She Is Doing",
+      "abstract": "The Minnesota Democrat is bringing Corbynism to the Democratic Party.",
+      "published_date": "2019-03-07",
+      "source": "The New York Times",
+      "id": 100000006397212,
+      "asset_id": 100000006397212,
+      "views": 19,
+      "des_facet": [
+        "ANTI-SEMITISM",
+        "JEWS AND JUDAISM",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "DEMOCRATIC PARTY",
+        "HOUSE OF REPRESENTATIVES"
+      ],
+      "per_facet": [
+        "OMAR, ILHAN",
+        "PELOSI, NANCY"
+      ],
+      "geo_facet": [
+        "ISRAEL"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Ilhan Omar in Washington on Wednesday.",
+          "copyright": "Mark Wilson\/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/06\/opinion\/06stephensWeb\/06stephensWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/06\/opinion\/06stephensWeb\/06stephensWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/06\/opinion\/06stephensWeb\/06stephensWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/9eaf1564-54c0-551c-9180-9a3f07880c81"
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2019\/03\/02\/business\/jeff-bezos-lauren-sanchez-amazon-hollywood.html",
+      "adx_keywords": "Bezos, Jeffrey P;Adultery;Extortion and Blackmail;Amazon.com Inc;American Media Inc;de Becker, Gavin;Sexting;National Enquirer;Sanchez, Lauren (1969- );Sanchez, Michael (1965- );Trump, Donald J;United States Politics and Government",
+      "column": null,
+      "section": "Business",
+      "byline": "By AMY CHOZICK",
+      "type": "Article",
+      "title": "How Jeff Bezos Went to Hollywood and Lost Control",
+      "abstract": "He built the world\u2019s largest fortune with an iron discipline. Now a wild cast of only-in-L.A. characters have seized his narrative.",
+      "published_date": "2019-03-02",
+      "source": "The New York Times",
+      "id": 100000006388410,
+      "asset_id": 100000006388410,
+      "views": 20,
+      "des_facet": [
+        "ADULTERY",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "EXTORTION AND BLACKMAIL",
+        "AMAZON.COM INC",
+        "AMERICAN MEDIA INC",
+        "SEXTING",
+        "NATIONAL ENQUIRER"
+      ],
+      "per_facet": [
+        "BEZOS, JEFFREY P",
+        "DE BECKER, GAVIN",
+        "SANCHEZ, LAUREN (1969- )",
+        "SANCHEZ, MICHAEL (1965- )",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Amazon billionaire Jeff Bezos after the Golden Globes in January.",
+          "copyright": "Elizabeth Lippman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/03\/business\/03BEZOS-lede-promo\/03BEZOS-lede-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/03\/business\/03BEZOS-lede-promo\/03BEZOS-lede-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2019\/03\/03\/business\/03BEZOS-lede-promo\/03BEZOS-lede-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt:\/\/article\/cc018963-79ae-540a-9007-df78c8949515"
+    }
+  ]
+}

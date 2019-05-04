@@ -1,0 +1,14 @@
+apply plugin: 'findbugs'
+
+task findbugs(type: FindBugs) {
+    excludeFilter = file("$project.rootDir/tools/rules-findbugs.xml")
+    classes = fileTree("$project.buildDir/intermediates/classes/debug/com/elshaabany/nyTimes")// + fileTree("$project.buildDir/intermediates/classes/com/elshaabany/nyTimes")
+    source = fileTree("$project.rootDir/src/main/java/com/elshaabany/nyTimes/")
+    classpath = files()
+
+    reports {
+        xml.enabled = false
+        html.enabled = true
+        html.destination = "$project.buildDir/outputs/findbugs/findbugs.html"
+    }
+}
