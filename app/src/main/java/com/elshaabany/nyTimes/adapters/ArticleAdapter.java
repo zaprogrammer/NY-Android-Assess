@@ -84,18 +84,22 @@ public class ArticleAdapter extends RecyclerView.Adapter<ArticleAdapter.ArticleV
     }
 
     class ArticleViewHolder extends RecyclerView.ViewHolder {
-        @BindView(R.id.image)
-        CircleImageView mImage;
-        @BindView(R.id.title)
-        TextView mTitle;
-        @BindView(R.id.byLine)
-        TextView mByLine;
-        @BindView(R.id.article_date)
-        TextView mArticleDate;
         //public View view;
         private Result currentResult;
         private int holderPosition;
         private OnHolderClickListener clickListener;
+
+        @BindView(R.id.image)
+        CircleImageView mImage;
+
+        @BindView(R.id.title)
+        TextView mTitle;
+
+        @BindView(R.id.byLine)
+        TextView mByLine;
+
+        @BindView(R.id.article_date)
+        TextView mArticleDate;
 
         public ArticleViewHolder(View view, OnHolderClickListener clickListener) {
             super(view);
